@@ -19,8 +19,7 @@
 </p>
 <p>
   <a href="#-idiomas-disponibles">🌐 Idiomas</a> • 
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest">📥 Descargar</a> • 
-  <a href="https://drive.google.com/">📁 Google Drive</a>
+  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest">📥 Descargar</a> 
 </p>
 </div>
 ---
