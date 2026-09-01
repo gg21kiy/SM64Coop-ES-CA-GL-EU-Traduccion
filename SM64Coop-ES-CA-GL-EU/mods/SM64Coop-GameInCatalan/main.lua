@@ -1,0 +1,3 @@
+-- name: \\#F4E31D\\SM64EX-COOP EN CATALÀ
+-- incompatible: .
+-- description: \\#F4E31D\\sm64ex-coop EN CATALÀ\n\nGAUDEIX ARA DE LES TEVES PARTIDES TOTALMENT TRADUÏDES!\n\nTraduït per \\#F4E31D\\gg21kiy
