@@ -3,7 +3,7 @@
 <h3>Pack de Traducións para SM64CoopDX / sm64ex-coop</h3>
 <p>
   <a href="https://github.com/coop-deluxe/sm64coopdx"><img src="https://img.shields.io/badge/SM64CoopDX-Compatible-e52521?style=for-the-badge&logo=nintendo&logoColor=white" alt="SM64Coop Compatible"></a>
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue?style=for-the-badge" alt="Versión"></a>
+  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue?style=for-the-badge" alt="Versión"></a>
   <a href="#-idiomas-dispo%C3%B1ibles"><img src="https://img.shields.io/badge/Idiomas-ES%20|%20CA%20|%20GL%20|%20EU-green?style=for-the-badge" alt="Idiomas"></a>
 </p>
 <p>
@@ -19,7 +19,7 @@
 </p>
 <p>
   <a href="#-idiomas-dispo%C3%B1ibles">🌐 Idiomas</a> • 
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest">📥 Descargar</a>
+  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest">📥 Descargar</a>
 </p>
 </div>
 
@@ -77,7 +77,7 @@
 ---
 
 ## 📦 Instalación
-1. Vai á sección de **[Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest)** e descarga o ficheiro `.zip` da última versión.
+1. Vai á sección de **[Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest)** e descarga o ficheiro `.zip` da última versión.
 2. Descomprime o ficheiro descargado.
 3. Copia o contido dentro do cartafol principal do teu xogo:
    * Coloca os ficheiros `.ini` dentro do directorio `lang/`.
