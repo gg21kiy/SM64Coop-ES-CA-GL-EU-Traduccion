@@ -81,6 +81,18 @@
 
 ## 🗑️ Desinstalación
 * Para retirar una traducción, simplemente borra el archivo `.ini` correspondiente en la carpeta `lang/` y la carpeta asociada dentro de `mods/`.
+
+---
+
+📜 Licencia
+
+Las traducciones, archivos de localización y documentación originales creados para este proyecto se distribuyen bajo la MIT License, salvo que se indique lo contrario.
+
+Esta licencia no se aplica a SM64CoopDX, sm64ex-coop, Super Mario 64 ni a otros componentes, recursos o contenidos de terceros. Dichos componentes pertenecen a sus respectivos autores y titulares de derechos y están sujetos a sus propias condiciones.
+
+Este proyecto es un paquete de traducción 
+independiente para SM64CoopDX / sm64ex-coop.
+
 ---
 
 ## 🤝 Créditos y Agradecimientos
