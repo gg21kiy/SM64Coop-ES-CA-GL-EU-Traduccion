@@ -57,12 +57,12 @@
 
 ## 🌐 Idiomas Disponibles
 
-| Idioma | Archivo de Interfaz (`lang/`) | Mod de Diálogos y Niveles (`mods/`) | Documentación |
-| :--- | :--- | :--- | :--- |
-| **Español** | `Spanish.ini` | `SM64EX-COOP EN ESPAÑOL` | [README.md](README.md) / [README-ESP.md](README-ESP.md) |
-| **Català** | `Catalan.ini` | `SM64EX-COOP EN CATAL` | [README-CAT.md](README-CAT.md) |
-| **Galego** | `Galician.ini` | `SM64EX-COOP EN GALEGO` | [README-GLG.md](README-GLG.md) |
-| **Euskara** | `Basque.ini` | `SM64EX-COOP EUSKARAZ` | [README-EUS.md](README-EUS.md) |
+| Idioma | Archivo de Interfaz (`lang/`) | Mod de Diálogos y Niveles (`mods/`) |
+| :--- | :--- | :--- |
+| **Español** | `Spanish.ini` | `SM64EX-COOP EN ESPAÑOL` |
+| **Català** | `Catalan.ini` | `SM64EX-COOP EN CATAL` |
+| **Galego** | `Galician.ini` | `SM64EX-COOP EN GALEGO` |
+| **Euskara** | `Basque.ini` | `SM64EX-COOP EUSKARAZ` |
 
 ---
 
