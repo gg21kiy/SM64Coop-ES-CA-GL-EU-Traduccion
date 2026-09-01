@@ -1,0 +1,3 @@
+-- name: \\#F4E31D\\SM64EX-COOP EUSKARAZ
+-- incompatible: .
+-- description: \\#F4E31D\\sm64ex-coop EUSKARAZ\n\n¡GOZATU ORAIN ZURE PARTIDAK GUZTIZ ITZULITA!\n\nItzultzailea: \\#F4E31D\\gg21kiy
