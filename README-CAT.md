@@ -7,7 +7,7 @@
   <a href="#-idiomes-disponibles"><img src="https://img.shields.io/badge/Idiomes-ES%20|%20CA%20|%20GL%20|%20EU-green?style=for-the-badge" alt="Idiomes"></a>
 </p>
 <p>
-  <b>Disponible en:</b><br>
+  <b>README disponible en:</b><br>
   <a href="README.md">🇪🇸 Español</a> • 
   <a href="README-CAT.md">🟡 Català</a> • 
   <a href="README-GLG.md">🔵 Galego</a> • 
