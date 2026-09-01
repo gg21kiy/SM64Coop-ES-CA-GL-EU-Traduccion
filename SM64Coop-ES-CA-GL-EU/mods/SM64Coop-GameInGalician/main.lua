@@ -1,0 +1,3 @@
+-- name: \\#F4E31D\\SM64EX-COOP EN GALEGO
+-- incompatible: .
+-- description: \\#F4E31D\\sm64ex-coop EN GALEGO\n\n¡DISFRUTA AGORA DAS TÚAS PARTIDAS TOTALMENTE TRADUCIDAS!\n\nTraducido por \\#F4E31D\\gg21kiy
