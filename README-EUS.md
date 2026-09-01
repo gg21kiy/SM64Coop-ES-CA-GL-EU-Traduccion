@@ -2,9 +2,9 @@
 <h1>SM64Coop ES-CA-GL-EU</h1>
 <h3>SM64CoopDX / sm64ex-coop-erako Itzulpen Paketea</h3>
 <p>
-  <a href="https://github.com/coop-deluxe/sm64coopdx"><img src="https://img.shields.io/badge/SM64CoopDX-Compatible-e52521?style=for-the-badge&logo=nintendo&logoColor=white" alt="SM64Coop bateragarria"></a>
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest"><img src="https://img.shields.io/badge/Bertsioa-1.0.0-blue?style=for-the-badge" alt="Bertsioa"></a>
-  <a href="#-hizkuntza-eskuragarriak"><img src="https://img.shields.io/badge/Hizkuntzak-ES%20|%20CA%20|%20GL%20|%20EU-green?style=for-the-badge" alt="Hizkuntzak"></a>
+   <a href="https://github.com/coop-deluxe/sm64coopdx"><img src="https://img.shields.io/badge/SM64CoopDX-Bateragarria-e52521?style=for-the-badge&logo=nintendo&logoColor=white" alt="SM64CoopDX Bateragarria"></a>
+<a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest"><img src="https://img.shields.io/github/v/release/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion?display_name=tag&label=Bertsioa&style=for-the-badge" alt="Bertsioa"></a>
+<a href="#-hizkuntza-eskuragarriak"><img src="https://img.shields.io/badge/Hizkuntzak-ES%20%7C%20CA%20%7C%20GL%20%7C%20EU-green?style=for-the-badge" alt="Hizkuntzak"></a>
 </p>
 <p>
   <b>README eskuragarri hemen:</b><br>
