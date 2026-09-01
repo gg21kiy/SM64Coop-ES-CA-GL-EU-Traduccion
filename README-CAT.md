@@ -91,6 +91,16 @@
 
 ---
 
+📜 Llicència
+
+ Les traduccions, fitxers de localització i documentació originals creats per a aquest projecte es distribueixen sota la MIT License, llevat que s'indiqui el contrari.
+
+ Aquesta llicència no s'aplica a SM64CoopDX, sm64ex-coop, Super Mario 64 ni a altres components, recursos o continguts de tercers.  Aquests components pertanyen als seus respectius autors i titulars de drets i estan subjectes a les condicions pròpies.
+
+ Aquest projecte és un paquet de traducció independent per a SM64CoopDX / sm64ex-coop.
+
+ ---
+ 
 ## 🤝 Crèdits i Agraïments
 * Desenvolupat i traduït per **[@gg21kiy](https://github.com/gg21kiy)**.
 * Basat en la plataforma base de **[sm64coopdx / sm64ex-coop](https://github.com/coop-deluxe/sm64coopdx)**.
