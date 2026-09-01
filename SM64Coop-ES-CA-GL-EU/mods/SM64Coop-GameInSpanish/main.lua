@@ -1,0 +1,3 @@
+-- name: \\#F4E31D\\SM64EX-COOP EN ESPAÑOL
+-- incompatible: .
+-- description: \\#F4E31D\\sm64ex-coop EN CASTELLANO\n\n¡DISFRUTA AHORA DE TUS PARTIDAS TOTALMENTE TRADUCIDAS!\n\nTraducido por \\#F4E31D\\gg21kiy

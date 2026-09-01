@@ -1,0 +1,51 @@
+smlua_text_utils_course_acts_replace(COURSE_BOB, (" 1  BATALLÓN BOB-OMB"),	("GRAN REY BOB-OMB EN LA CIMA"),	("CARRERA CON KOOPA EL RÁPIDO"),	("DISPARA A LA ISLA EN EL CIELO"),	("BUSCA LAS 8 MONEDAS ROJAS"),	("MARIO ALADO HACIA EL CIELO"),	("DETRÁS DE LA JAULA DEL CHOMP CADENAS"))
+
+smlua_text_utils_course_acts_replace(COURSE_WF, (" 2 FORTALEZA WHOMP"),	("APLASTA AL GRAN WHOMP"),	("A LA CIMA DE LA FORTALEZA"),	("VUELA HACIA LA GRAN PLATAFORMA"),	("8 MONEDAS ROJAS EN LA ISLA FLOTANTE"),	("CAE EN LA ISLA ENJAULADA"),	("CHOCA CONTRA LA MURALLA"))
+
+smlua_text_utils_course_acts_replace(COURSE_JRB, (" 3 BAHÍA JOLLY ROGER"),	("BOTÍN EN EL BARCO HUNDIDO"),	("¿PUEDE SALIR LA ANGUILA A JUGAR?"),	("TESORO EN LA CUEVA OCEÁNICA"),	("MONEDAS ROJAS EN EL BARCO A FLOTE"),	("CHOCA CONTRA EL PILAR DE PIEDRA"),	("A TRAVÉS DE LA CORRIENTE"))
+
+smlua_text_utils_course_acts_replace(COURSE_CCM, (" 4 MONTAÑA HELADA"),	("DESLIZÁNDOSE A LA META"),	("PINGÜINITO PERDIDO..."),	("CARRERA CONTRA EL GRAN PINGÜINO"),	("DESLIZÁNDOSE POR 8 MONEDAS ROJAS"),	("EL MUÑECO DE NIEVE PERDIÓ LA CABEZA"),	("ESCUELA DE SALTO EN PARED"))
+
+smlua_text_utils_course_acts_replace(COURSE_BBH, (" 5 MANSIÓN ENCANTADA"),	("TEMPORADA DE BOOS"),	("SÚBETE AL TÍOVIVO BOO"),	("EL SECRETO DE LA BIBLIOTECA"),	("BUSCA LAS 8 MONEDAS ROJAS"),	("EL BALCÓN DEL GRAN BOO"),  ("UN OJO EN LA SALA SECRETA"))
+
+smlua_text_utils_course_acts_replace(COURSE_HMC, (" 6 CUEVA DEL LABERINTO"),	("LA BESTIA ACUÁTICA EN LA CUEVA"),	("ELÉVATE POR 8 MONEDAS ROJAS"),	("¡MARIO CABEZA DE METAL, MUÉVETE!"),	("NAVEGANDO EN LA NIEBLA TÓXICA"),	("¡LA ESCAPADA DEL SWOOP!"),	("¡CUIDADO! ROCAS RODANTES"))
+
+smlua_text_utils_course_acts_replace(COURSE_LLL, (" 7 TIERRA DE LAVA"),	("COCINANDO CON EL GRAN BULLY"),	("TRES BULLIES MATONES"),	("8 MONEDAS ROJAS EN EL PUZLE"),	("TRONCO GIRATORIO ARDIENTE"),	("PIES CALIENTES EN EL VOLCÁN"),	("VIAJE EN ELEVADOR DENTRO DEL VOLCÁN"))
+
+smlua_text_utils_course_acts_replace(COURSE_SSL, (" 8 ARENAS MOVEDIZAS"),	("EN LOS TALONES DEL GRAN PÁJARO"),	("BRILLO EN LA CIMA DE LA PIRÁMIDE"),	("DENTRO DE LA ANTIGUA PIRÁMIDE"),	("DE PIE SOBRE LOS 4 PILARES"),	("VOLANDO POR 8 MONEDAS ROJAS"),	("EL PUZLE DE LA PIRÁMIDE"))
+
+smlua_text_utils_course_acts_replace(COURSE_DDD, (" 9 MUELLE NEFASTO"),	("A BORDO DEL SUBMARINO DE BOWSER"),	("COFRES CONTRA CORRIENTE"),	("MONEDAS ROJAS EN LOS POSTES"),	("DENTRO DE LA CORRIENTE"),	("EL PREMIO DE LA MANTA RAYA"),	("COLECCIÓN DE GORRAS..."))
+
+smlua_text_utils_course_acts_replace(COURSE_SL, (" 10 TIERRA HELADA"),	("MUÑECO DE NIEVE CABEZÓN"),	("CONGELA AL BULLY"),	("EN EL FRÍO PROFUNDO"),	("ESCAPE DEL ESTANQUE CONGELADO"),	("CORAZA POR MONEDAS ROJAS"),	("DENTRO DEL IGLÚ"))
+
+smlua_text_utils_course_acts_replace(COURSE_WDW, (" 11 CIUDAD ESPONJA"),	("¡FLECHAS ELÉCTRICAS IMPACTANTES!"),	("LA CIMA DE LA CIUDAD"),	("SECRETOS EN LAS ALTURAS"),	("ELEVADOR EXPRÉS: ¡¡APÚRATE!!"),	("VE A LA CIUDAD POR MONEDAS ROJAS"),	("¡CARRERA RÁPIDA EN LA CIUDAD!"))
+
+smlua_text_utils_course_acts_replace(COURSE_TTM, ("12 MONTAÑA ESCARPADA"),	("ESCALADA EN LA MONTAÑA"),	("EL MISTERIO DEL MONO ENJAULADO"),	("CHAMPIÑONES ATERRADORES, MONEDAS ROJAS"),	("TOBOGÁN MONTAÑOSO MISTERIOSO"),	("DETRÁS DE LA CASCADA"),	("DISPARO AL CHAMPIÑÓN SOLITARIO"))
+
+smlua_text_utils_course_acts_replace(COURSE_THI, ("13 ISLA GRANDE-PEQUEÑA"),	("ARRANCA LA PLANTA PIRAÑA"),	("LA CIMA DE LA GRAN ISLA"),	("REVANCHA CONTRA KOOPA EL RÁPIDO"),	("5 SECRETITOS MUY PEQUEÑOS"),	("MONEDAS ROJAS DEL WIGGLER"),	("HAZ QUE WIGGLER SE RETUERZA"))
+
+smlua_text_utils_course_acts_replace(COURSE_TTC, ("14 RELOJ TIC-TAC"),	("RUEDA HASTA LA JAULA"),	("LOS PÉNDULOS Y LA FOSA"),	("¿NECESITAS UNA MANECILLA?"),	("ENCIMA DE UN THWOMP"),	("AL RITMO DE LAS PLATAFORMAS"),	("MONEDAS ROJAS MÁS ALLÁ DEL TIEMPO"))
+
+smlua_text_utils_course_acts_replace(COURSE_RR, (" 15 CRUCERO ARCOÍRIS"),	("PASEO EN ARCOÍRIS"),	("LA MANSIÓN EN EL CIELO"),	("MONEDAS REVUELTAS EN EL LABERINTO"),	("BALANCEO EN LA BRISA"),	("¡TRIÁNGULOS CON TRUCO!"),	("EN ALGÚN LUGAR SOBRE EL ARCOÍRIS"))
+
+smlua_text_utils_secret_star_replace(COURSE_BITDW,    "   BOWSER EN LAS TINIEBLAS")
+smlua_text_utils_secret_star_replace(COURSE_BITFS,    "   BOWSER EN EL MAR DE LAVA")
+smlua_text_utils_secret_star_replace(COURSE_BITS,     "   BOWSER EN EL CIELO")
+smlua_text_utils_secret_star_replace(COURSE_PSS,      "   EL TOBOGÁN SECRETO DE LA PRINCESA")
+smlua_text_utils_secret_star_replace(COURSE_COTMC,    "   CAVERNA DE LA GORRA METÁLICA")
+smlua_text_utils_secret_star_replace(COURSE_TOTWC,    "   TORRE DE LA GORRA ALADA")
+smlua_text_utils_secret_star_replace(COURSE_VCUTM,    "   FOSO DE LA GORRA INVISIBLE")
+smlua_text_utils_secret_star_replace(COURSE_WMOTR,    "   MARIO ALADO SOBRE EL ARCOÍRIS")
+smlua_text_utils_secret_star_replace(COURSE_SA,       "   EL ACUARIO SECRETO")
+
+smlua_text_utils_secret_star_replace(COURSE_CAKE_END, "")
+
+smlua_text_utils_castle_secret_stars_replace("   ESTRELLAS SECRETAS")
+
+smlua_text_utils_extra_text_replace(0, "¡UNA DE LAS ESTRELLAS SECRETAS DEL CASTILLO!")
+smlua_text_utils_extra_text_replace(1,(""))
+smlua_text_utils_extra_text_replace(2,(""))
+smlua_text_utils_extra_text_replace(3,(""))
+smlua_text_utils_extra_text_replace(4,(""))
+smlua_text_utils_extra_text_replace(5,(""))
+smlua_text_utils_extra_text_replace(6,(""))
