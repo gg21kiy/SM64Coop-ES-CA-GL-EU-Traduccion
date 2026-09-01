@@ -3,7 +3,7 @@
 <h3>SM64CoopDX / sm64ex-coop-erako Itzulpen Paketea</h3>
 <p>
   <a href="https://github.com/coop-deluxe/sm64coopdx"><img src="https://img.shields.io/badge/SM64CoopDX-Compatible-e52521?style=for-the-badge&logo=nintendo&logoColor=white" alt="SM64Coop bateragarria"></a>
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest"><img src="https://img.shields.io/badge/Bertsioa-1.0.0-blue?style=for-the-badge" alt="Bertsioa"></a>
+  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest"><img src="https://img.shields.io/badge/Bertsioa-1.0.0-blue?style=for-the-badge" alt="Bertsioa"></a>
   <a href="#-hizkuntza-eskuragarriak"><img src="https://img.shields.io/badge/Hizkuntzak-ES%20|%20CA%20|%20GL%20|%20EU-green?style=for-the-badge" alt="Hizkuntzak"></a>
 </p>
 <p>
@@ -19,7 +19,7 @@
 </p>
 <p>
   <a href="#-hizkuntza-eskuragarriak">🌐 Hizkuntzak</a> • 
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest">📥 Deskargatu</a>
+  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest">📥 Deskargatu</a>
 </p>
 </div>
 
@@ -77,7 +77,7 @@
 ---
 
 ## 📦 Instalazioa
-1. Joan **[Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU/releases/latest)** atalera eta deskargatu azken bertsioaren `.zip` fitxategia.
+1. Joan **[Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest)** atalera eta deskargatu azken bertsioaren `.zip` fitxategia.
 2. Deskonprimitu deskargatutako fitxategia.
 3. Kopiatu edukia zure jokoaren karpeta nagusiaren barruan:
    * Jarri `.ini` fitxategiak `lang/` direktorioan.
