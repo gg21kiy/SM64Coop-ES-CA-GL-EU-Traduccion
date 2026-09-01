@@ -91,6 +91,16 @@
 
 ---
 
+📜 Lizentzia
+
+Proiektu honetarako sortutako itzulpenak, lokalizazio fitxategiak eta jatorrizko dokumentazioa MIT Lizentziapean banatzen dira, bestelakorik adierazi ezean.
+
+Lizentzia hau ez zaie SM64CoopDX, sm64ex-coop, Super Mario 64 edo beste hirugarrenen osagai, baliabide edo edukiei aplikatzen. Osagai hauek dagokien egile eta eskubideen jabeenak dira eta beren baldintzen menpe daude.
+
+Proiektu hau SM64CoopDX / sm64ex-coop-erako itzulpen pakete independente bat da.
+
+---
+
 ## 🤝 Kredituak eta Esker Onak
 * Garatzailea eta itzultzailea: **[@gg21kiy](https://github.com/gg21kiy)**.
 * Oinarria: **[sm64coopdx / sm64ex-coop](https://github.com/coop-deluxe/sm64coopdx)** plataforma.
