@@ -22,7 +22,6 @@ Todos los cambios importantes de este proyecto se documentarán en este archivo.
 - Archivos de traducción.
 - Mods necesarios para las traducciones.
 - Documentación de instalación.
-- Capturas de pantalla del proyecto.
 
 🔧 Compatibilidad
 
