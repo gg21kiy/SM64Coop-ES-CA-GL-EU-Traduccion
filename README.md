@@ -1,99 +1,97 @@
-<div align="center">
-<h1>SM64Coop ES-CA-GL-EU</h1>
-<h3>Pack de Traducciones para SM64CoopDX / sm64ex-coop</h3>
-<p>
-  <a href="https://github.com/coop-deluxe/sm64coopdx"><img src="https://img.shields.io/badge/SM64CoopDX-Compatible-e52521?style=for-the-badge&logo=nintendo&logoColor=white" alt="SM64Coop Compatible"></a>
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue?style=for-the-badge" alt="Version"></a>
-  <a href="#-idiomas-disponibles"><img src="https://img.shields.io/badge/Idiomas-ES%20|%20CA%20|%20GL%20|%20EU-green?style=for-the-badge" alt="Languages"></a>
+<h1 align="center">👋 ¡Hola, soy gg21kiy!</h1>
+
+<p align="center">
+  Modder y programador aficionado 🎮<br/>
+  Creo mods, submods y traducciones para los juegos que me gustan.
 </p>
-<p>
-  <b>README disponible en:</b><br>
-  <a href="README.md">🇪🇸 Español</a> • 
-  <a href="README-CAT.md">🟡 Català</a> • 
-  <a href="README-GLG.md">🔵 Galego</a> • 
-  <a href="README-EUS.md">🟢 Euskara</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge" alt="Ren'Py" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Idiomas-ES%20·%20CA%20·%20GL%20·%20EU-4c8eda?style=for-the-badge" alt="Idiomas" />
 </p>
-<img src="screenshots/mods_menu.jpg" alt="Menú de Mods" width="700" style="border-radius: 10px;"/>
-<p>
-  <em>Traducción integral para Super Mario 64 CoopDX: menús de la interfaz, nombres de niveles y diálogos en Español, Catalán, Gallego y Euskera.</em>
+
+---
+
+## 🙋 Sobre mí
+
+- 🎮 Me muevo entre **Monika After Story** y **Super Mario 64 Coop**.
+- 🧩 Hago mods porque me gusta darle a los juegos ese detalle extra que echaba en falta.
+- 🌍 Creo que los juegos deben poder disfrutarse en tu idioma: por eso traduzco a **castellano, català, galego y euskara**.
+- 💬 *Si un juego me gusta, busco la forma de mejorarlo; si me encanta, lo comparto.*
+
+---
+
+## 🚧 Trabajando ahora en
+
+- 🏆 **Mod de logros de Moon64** para SM64ex-coop / SM64CoopDX.
+
+---
+
+## 🛠️ Proyectos destacados
+
+### 💚 [Voy a jugar un juego específico · MAS Submod](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod)
+Submod para **Monika After Story** que añade opciones de diálogo para avisarle a Monika a qué juego vas a jugar. Compatible con *Submod Updater Plugin*.
+
+`Ren'Py`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/VAJAUJEMS/p1.jpg" width="600" alt="MAS Submod: Monika pregunta el nombre del juego" />
 </p>
-<p>
-  <a href="#-idiomas-disponibles">🌐 Idiomas</a> • 
-  <a href="https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest">📥 Descargar</a> 
+
+📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases) y copia la carpeta en `game/Submods/` de tu Monika After Story.
+
+### 🌍 [SM64Coop · Traducciones ES-CA-GL-EU](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion)
+Pack de traducciones para **SM64CoopDX / sm64ex-coop** en cuatro idiomas: castellano, català, galego y euskara.
+
+`Lua`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_idioma.jpg" width="600" alt="Selector de idioma con castellano, català, galego y euskara" />
 </p>
-</div>
----
 
-## 📸 Capturas de Pantalla
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Català</b></td>
-      <td align="center"><b>Galego</b></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/menu_catalan.jpg" width="380" style="border-radius: 8px;"/></td>
-      <td><img src="screenshots/menu_galego.jpg" width="380" style="border-radius: 8px;"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Euskara</b></td>
-      <td align="center"><b>Selector de Idioma</b></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/menu_euskera.jpg" width="380" style="border-radius: 8px;"/></td>
-      <td><img src="screenshots/menu_idioma.jpg" width="380" style="border-radius: 8px;"/></td>
-    </tr>
-  </table>
-</div>
----
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_catalan.jpg" width="280" alt="Menú en català" /><br/><sub>Català</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_galego.jpg" width="280" alt="Menú en galego" /><br/><sub>Galego</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_euskera.jpg" width="280" alt="Menú en euskara" /><br/><sub>Euskara</sub></td>
+  </tr>
+</table>
 
-## 🌟 Características
-* **Traducción integral:** Incluye textos de los menús e interfaz (`lang/`), nombres de niveles (`courses.lua`) y todos los diálogos del juego (`dialogs.lua`).
-* **Multilingüe peninsular:** Soporte completo en 4 lenguas: Español, Catalán, Gallego y Euskera.
-* **Modular:** Posibilidad de activar el idioma de los menús y los textos del juego por separado.
-* **Compatibilidad total:** Compatible con las versiones modernas de **SM64CoopDX** y **sm64ex-coop**.
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/mods_menu.jpg" width="600" alt="Menú de mods con los paquetes de traducción" />
+</p>
 
-## 🌐 Idiomas Disponibles
-
-| Idioma | Archivo de Interfaz (`lang/`) | Mod de Diálogos y Niveles (`mods/`) |
-| :--- | :--- | :--- |
-| **Español** | `Spanish.ini` | `SM64EX-COOP EN ESPAÑOL` |
-| **Català** | `Catalan.ini` | `SM64EX-COOP EN CATAL` |
-| **Galego** | `Galician.ini` | `SM64EX-COOP EN GALEGO` |
-| **Euskara** | `Basque.ini` | `SM64EX-COOP EUSKARAZ` |
+📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases) y colócala en la carpeta de mods de SM64CoopDX.
 
 ---
 
-## 🕹️ Instrucciones de Uso
-1. **Para los menús y la interfaz:**
-   > Opciones ➔ Idioma ➔ Selecciona `Español`, `Catalan (Català)`, `Galician (Galego)` o `Basque (Euskara)`.
-2. **Para los textos y diálogos dentro del juego:**
-   > Menú de Mods ➔ Marca la casilla del mod correspondiente a tu idioma.
----
-## 📦 Instalación
-1. Dirígete a la sección de **[Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases/latest)** y descarga el archivo `.zip` de la última versión.
-2. Descomprime el archivo descargado.
-3. Copia el contenido dentro de la carpeta principal de tu juego:
-   * Coloca los archivos `.ini` dentro del directorio `lang/`.
-   * Coloca las carpetas de traducción dentro del directorio `mods/`.
-4. Abre el juego y selecciona tus preferencias de idioma.
+## 🧰 Tecnologías
 
-## 🗑️ Desinstalación
-* Para retirar una traducción, simplemente borra el archivo `.ini` correspondiente en la carpeta `lang/` y la carpeta asociada dentro de `mods/`.
+<p>
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+</p>
 
 ---
 
-📜 Licencia
+## 📊 Estadísticas
 
-Las traducciones, archivos de localización y documentación originales creados para este proyecto se distribuyen bajo la MIT License, salvo que se indique lo contrario.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gg21kiy&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg21kiy&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+</p>
 
-Esta licencia no se aplica a SM64CoopDX, sm64ex-coop, Super Mario 64 ni a otros componentes, recursos o contenidos de terceros. Dichos componentes pertenecen a sus respectivos autores y titulares de derechos y están sujetos a sus propias condiciones.
-
-Este proyecto es un paquete de traducción 
-independiente para SM64CoopDX / sm64ex-coop.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gg21kiy&theme=tokyonight&hide_border=true" alt="Racha" />
+</p>
 
 ---
 
-## 🤝 Créditos y Agradecimientos
-* Desarrollado y traducido por **[@gg21kiy](https://github.com/gg21kiy)**.
+## 📫 Contacto y comunidad
+
+¿Ideas, bugs o sugerencias? Abre un *issue* en cualquiera de mis repositorios. ¡Toda ayuda es bienvenida!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gg21kiy&style=flat-square&color=blue" alt="Visitas al perfil" />
+</p>
