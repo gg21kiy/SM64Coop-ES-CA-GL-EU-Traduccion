@@ -1,6 +1,12 @@
 <h1 align="center">👋 ¡Hola, soy gg21kiy!</h1>
 
 <p align="center">
+  🇪🇸 Español · <a href="https://github.com/gg21kiy/gg21kiy/blob/main/README.en.md">🇬🇧 Read in English</a>
+</p>
+
+---
+
+<p align="center">
   Modder y programador aficionado 🎮<br/>
   Creo mods, submods y traducciones para los juegos que me gustan.
 </p>
